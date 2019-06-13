@@ -3,7 +3,7 @@ export default {
   name: "Todo",
   data() {
     return {
-      todos: [],
+      todos: ["type", "some", "todo", "stuff", "here"],
       input: ""
     };
   },
